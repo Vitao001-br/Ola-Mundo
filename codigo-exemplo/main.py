@@ -7,4 +7,4 @@ if r == 1:
 elif r == 2:
     print('Melhoras para voçê!')
 else:
-    print('Tente novamente!')
+    print('Tente novamente!!')
